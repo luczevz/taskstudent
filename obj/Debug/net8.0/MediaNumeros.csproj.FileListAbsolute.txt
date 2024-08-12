@@ -1,0 +1,4 @@
+C:\Users\Lucas\Desktop\Estudos Lógica de Programação\obj\Debug\net8.0\MediaNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\Estudos Lógica de Programação\obj\Debug\net8.0\MediaNumeros.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\Estudos Lógica de Programação\obj\Debug\net8.0\MediaNumeros.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\Estudos Lógica de Programação\obj\Debug\net8.0\MediaNumeros.csproj.CoreCompileInputs.cache
